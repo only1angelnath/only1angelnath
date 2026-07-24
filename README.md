@@ -72,17 +72,19 @@ I decode on-chain data and build tools that make blockchain ecosystems readable 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=only1angelnath&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1angelnath&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=only1angelnath&theme=midnight-purple&hide_border=true" height="165" />
 </p>
 
 ---
 
-<p align="left">
-  <i>Open to blockchain data analyst roles, research contracts, and on-chain tooling projects.</i><br/>
-  <b>adedirannath@gmail.com</b>
-</p>
+## Let's Connect
+
+| | |
+|---|---|
+| 🌐 Portfolio | [angelnath.vercel.app](https://angelnath.vercel.app) |
+| 🐦 Twitter/X | [@_angelnath](https://x.com/_angelnath) |
+| ✈️ Telegram | [@only1angelnath](https://t.me/only1angelnath) |
+| 📧 Email | [adedirannath@gmail.com](mailto:adedirannath@gmail.com) |
+
+<i>Open to blockchain data analyst roles, research contracts, and on-chain tooling projects.</i>
