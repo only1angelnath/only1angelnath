@@ -1,4 +1,4 @@
-# Hey, I'm Nathaniel (Angelnath) 👋
+# Hi, I'm Nathaniel (Angelnath) 👋
 
 **Blockchain Data Analyst · On-Chain Researcher · Python Developer**
 
