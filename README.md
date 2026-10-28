@@ -4,8 +4,6 @@
 
 I decode on-chain data and build tools that make blockchain ecosystems readable — for analysts, protocols, and anyone who needs to know what's actually happening on-chain.
 
-> *The blockchain tells the truth. I pull the data and explain what it actually means.*
-
 📊 [Portfolio](https://angelnath.vercel.app) · 📝 [Substack](https://only1angelnath.substack.com) · 📈 [Dune](https://dune.com/angelnath) · 💼 [LinkedIn](https://www.linkedin.com/in/adediran-nathaniel/) · 🐦 [Twitter/X](https://x.com/_angelnath)
 
 ---
